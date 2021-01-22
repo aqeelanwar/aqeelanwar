@@ -1,4 +1,4 @@
-[![Aqeel's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![Aqeel's GitHub Banner](images/banner.png)](https://aqeel-anwar.com)
 
 [![Visits Badge](https://badges.pufler.dev/visits/aqeelanwar/aqeelanwar)](https:aqeel-anwar.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/aqeelanwarmalik/)
